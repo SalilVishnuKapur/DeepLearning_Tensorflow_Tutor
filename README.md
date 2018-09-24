@@ -1,4 +1,4 @@
-The above two topics of Deep Learning in this project are for the workshop happening in ShiftKey Labs. THe Link for the workshop is bellow.  
+The above two topics of Deep Learning in this project are for the workshop happening in ShiftKey Labs. The Link for the workshop is bellow.  
 Workshop Link :- https://shiftkeylabs.ca/calendar/introduction-to-tensorflow-workshop/
 
 # Full Course Available as well :-
