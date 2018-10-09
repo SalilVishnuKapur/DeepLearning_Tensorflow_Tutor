@@ -8,7 +8,7 @@ O'RIELLY:- https://www.safaribooksonline.com/library/view/hands-on-deep-learning
 Packt :- https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-tensorflow-video  
 Udemy :- https://www.udemy.com/hands-on-deep-learning-with-tensorflow/  
 
-# My Github Repo for the Full Course provided by Packt Publishers 
+# Full Course code provided by Packt Publishers 
 Github Repo :- https://github.com/PacktPublishing/Hands-on-Deep-Learning-with-TensorFlow-v.git
 
 ## Requirements for the full Course
